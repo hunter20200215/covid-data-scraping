@@ -1,0 +1,9 @@
+I have included a video where I have shown what should you automate.
+
+I need the automation for logging into the aliexpress.
+
+After, username/password is entered, it will ask for the verification code.
+
+You need to automate that too so that you can fetch the verification code from email and input that into the verification field.
+
+The screenshot of the verification email is in this same folder.
